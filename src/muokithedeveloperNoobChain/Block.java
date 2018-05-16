@@ -9,7 +9,7 @@ public class Block
     public String data;
 
     private long timeStamp;//asnumber of milliseconds since 1/1/1970
-
+    private int nonce;
     //block constructor
     public Block(String data, String previousHash)
     {
@@ -22,7 +22,9 @@ public class Block
     public String calculateHash()
     {
         String calculatedHash = StringUtil.applySha256(
-                previousHash + Long.toString(timeStamp)+ data);
+                previousHash + Long.toString(timeStamp)+Integer.toString(nonce)+ data);
         return calculatedHash;
     }//calculateHash
+
+    public void mineBlock(int difficulty){}//end mineBlock
 }//end class BLock

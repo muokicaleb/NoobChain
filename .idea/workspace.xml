@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a373d4d-1c6d-4f29-ba96-28b9a21d0d39" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/NoobChain.iml" afterPath="$PROJECT_DIR$/NoobChain.iml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Main.java" afterPath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java" />
+      <change beforePath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java" afterPath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java" />
+      <change beforePath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java" afterPath="$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NoobChain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NoobChain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="408">
+              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#187#194#0" expanded="true" />
@@ -42,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Block.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -74,8 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Main.java" />
         <option value="$PROJECT_DIR$/src/muokithedeveloperNoobChain/StringUtil.java" />
-        <option value="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java" />
         <option value="$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java" />
+        <option value="$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java" />
       </list>
     </option>
   </component>
@@ -244,14 +240,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -262,12 +250,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/NoobChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="408">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#187#194#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/muokithedeveloperNoobChain/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
