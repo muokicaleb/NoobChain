@@ -26,5 +26,14 @@ public class Block
         return calculatedHash;
     }//calculateHash
 
-    public void mineBlock(int difficulty){}//end mineBlock
+    public void mineBlock(int difficulty)
+    {
+        String target = new String(new char[difficulty]).replace('\0','0');
+        while (!hash.substring(0, difficulty).equals(target))
+        {
+            nonce ++;
+            hash = calculateHash();
+        }//end while
+        System.out.println("Block Mined!!! : " + hash);
+    }//end mineBlock
 }//end class BLock
